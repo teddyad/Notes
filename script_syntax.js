@@ -139,11 +139,3 @@ function greaterY(arr, Y) {
     return count;
 }
 console.log(greaterY());
-
-Revision One
-
-Revision Two
-
-Revision Three
-
-Revision Four
